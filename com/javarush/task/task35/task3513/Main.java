@@ -1,6 +1,7 @@
 package com.javarush.task.task35.task3513;
 
 import javax.swing.*;
+import com.javarush.task.task35.task3513.Model;
 
 public class Main {
     public static void main(String[] args) {

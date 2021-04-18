@@ -1,6 +1,9 @@
 package com.javarush.task.task35.task3513;
 
 import java.util.*;
+import com.javarush.task.task35.task3513.Tile;
+import com.javarush.task.task35.task3513.MoveEfficiency;
+import com.javarush.task.task35.task3513.Move;
 
 public class Model {
     private Tile[][] gameTiles;

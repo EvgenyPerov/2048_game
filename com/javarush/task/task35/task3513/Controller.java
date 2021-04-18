@@ -2,6 +2,9 @@ package com.javarush.task.task35.task3513;
 
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
+import com.javarush.task.task35.task3513.Model;
+import com.javarush.task.task35.task3513.View;
+import com.javarush.task.task35.task3513.Tile;
 
 public class Controller extends KeyAdapter {
     private Model model;
